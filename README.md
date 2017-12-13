@@ -43,14 +43,14 @@ first markdown
 * **秋** : 夕暮れ
 * **冬** : つとめて
 
-##　強調表現
+## 強調表現
 
 * `*`で囲むと*Italic体になります*
 * `**`で囲むと**Bold体**
 
 * <font color="red">RED</font>
 
-##　ソースコード
+## ソースコード
 
 ```
 plain text
@@ -65,6 +65,6 @@ for i in range(3):
   print i
 ```
 
-##ハイパーリンク
+## ハイパーリンク
 * [google](http://www.google.co.jp)
 * [this file](./README.md)
